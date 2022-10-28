@@ -1,2 +1,2 @@
 # Hey there
-Everything is coming qoon, stay tuned!
+Everything is coming soon, stay tuned!
