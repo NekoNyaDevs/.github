@@ -7,7 +7,7 @@ NekoNya is an anime themed website with many things on.
 - [ ] Add more content
 - [ ] Add more images
 - [ ] Create more wrappers for each language
-- [ ] Create API Docs
+- [x] Create API Docs
 - [x] Drink a tea
 
 ## ❓・Why us?
