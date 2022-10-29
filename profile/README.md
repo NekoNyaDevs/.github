@@ -1,6 +1,6 @@
-# 🌿・NekoNya.js
+# 🌿・NekoNya
 
-NekoNya is a anime themed website with many things on.
+NekoNya is an anime themed website with many things on.
 
 ## 📝・To-Do
 
