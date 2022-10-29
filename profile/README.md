@@ -25,7 +25,7 @@ The API is pretty simple, you just need to send a request to the API, and it wil
 ```js
 const fetch = require('node-fetch');
 
-fetch('https://nekonya.js.org/api/v1/random/neko')
+fetch('https://nekonya.classy.works/api/v1/random/neko')
     .then(res => res.json())
     .then(json => console.log(json));
 ```
