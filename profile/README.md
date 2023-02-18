@@ -2,6 +2,8 @@
 
 NekoNya is an anime themed website with many things on.
 
+** IMPORTANT - NEKONYA IS ON MAINTENANCE FOR CLOUD PROBLEMS, SORRY FOR ANY INCOVENIENCE CAUSED.
+
 ## 📝・To-Do
 
 - [ ] Add more content
