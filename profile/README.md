@@ -1,4 +1,4 @@
-# 🌿・NekoNya
+# 🌿・NekoNya, the world of nekos
 
 NekoNya is an anime themed website with many things on.
 
