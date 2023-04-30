@@ -34,7 +34,7 @@ fetch('https://nekonya.classy.works/api/v1/random/neko')
 The response will be like this:
 ```json
 {
-    "url": "https://cdn.worldwild.studio/nekos/normal/neko-0001.jpg"
+    "url": "https://cdn.nekonya.classy.works/images/nekos/neko-0001.jpg"
 }
 ```
 
