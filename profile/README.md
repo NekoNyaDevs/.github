@@ -15,11 +15,11 @@ NekoNya is an anime themed website with many things on.
 ## ❓・Why us?
 
 - ⚡・Fast
-- - The website is made on ExpressJS, and constantly optimized, to bring you the fastest API and deliver you some images fast.
+  - The website is made on ExpressJS, and constantly optimized, to bring you the fastest API and deliver you some images fast.
 - 📜・Free to use, maybe
-- - We can't really tell if our images are free to use, we just got 'em downloading from some databases, without filtering. But let's say it is, right?
+  - We can't really tell if our images are free to use, we just got 'em downloading from some databases, without filtering. But let's say it is, right?
 - 🖥・API
-- - This website also has an API for developers to use, you can use the API to get random images.
+  - This website also has an API for developers to use, you can use the API to get random images.
 
 ## 📚・API
 
