@@ -11,6 +11,7 @@ NekoNya is an anime themed website with many things on.
 - [ ] Create more wrappers for each language
 - [x] Create API Docs
 - [x] Drink a tea
+- [ ] Complete rewrite of the structure (the website will become only a frontend site without any apis, and nekonya-storage will become the api)
 
 ## ❓・Why us?
 
