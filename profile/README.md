@@ -11,20 +11,20 @@ NekoNya is an anime themed website with many things on.
 - [ ] Create more wrappers for each language
 - [x] Create API Docs
 - [x] Drink a tea
-- [ ] Complete rewrite of the structure (the website will become only a frontend site without any apis, and nekonya-storage will become the api)
+- [x] Complete rewrite of the structure (the website will become only a frontend site without any apis, and nekonya-storage will become the api)
 
 ## ❓・Why us?
 
 - ⚡・Fast
   - The website is made on ExpressJS, and constantly optimized, to bring you the fastest API and deliver you some images fast.
-- 📜・Free to use, maybe
-  - We can't really tell if our images are free to use, we just got 'em downloading from some databases, without filtering. But let's say it is, right?
+- 📜・Lots of images
+  - We try our best at uploading more and more pictures to NekoNya, by downloading randomly from the internet.
 - 🖥・API
   - This website also has an API for developers to use, you can use the API to get random images.
 
 ## 📚・API
 
-The API is pretty simple, you just need to send a request to the API, and it will return you a JSON response.
+The API is a RESTful API.
 ```js
 const fetch = require('node-fetch');
 
@@ -39,6 +39,8 @@ The response will be like this:
 }
 ```
 
+Please refer to the [official API documentation](https://docs.classydev.fr/nekonya).
+
 ## 📜・License
 
-All our projects are licensed under the MIT License.
+See the license of each project via their LICENSE file.
