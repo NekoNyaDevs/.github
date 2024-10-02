@@ -10,7 +10,7 @@ NekoNya is an anime themed website with many things on.
 - [x] Add more images
 - [ ] Create more wrappers for each language
 - [x] Create API Docs
-- [x] Drink a tea
+- [x] Drink tea
 - [x] Complete rewrite of the structure (the website will become only a frontend site without any apis, and nekonya-storage will become the api)
 
 ## ❓・Why us?
@@ -28,14 +28,14 @@ The API is a RESTful API.
 ```js
 const fetch = require('node-fetch');
 
-fetch('https://nekonya.classy.works/api/v1/random/neko')
+fetch('https://nekonya.classydev.fr/api/v1/random/neko')
     .then(res => res.json())
     .then(json => console.log(json));
 ```
 The response will be like this:
 ```json
 {
-    "url": "https://cdn.nekonya.classy.works/images/nekos/neko-0001.jpg"
+    "url": "https://nekonya.classydev.fr/images/nekos/neko-0001.jpg"
 }
 ```
 
